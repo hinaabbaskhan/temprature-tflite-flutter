@@ -1,6 +1,5 @@
-# temprature_tflite_flutter
-
-A new Flutter project.
+# ML in Flutter with Tensorflow Lite
+A mobile application build using Flutter which incorporates a machine learning model trained in Google Colab. This model is designed to convert Celsius temperatures into Fahrenheit. By integrating the pre-trained model into the Flutter app, users can conveniently perform on-device conversions from Celsius to Fahrenheit
 
 ## Getting Started
 
